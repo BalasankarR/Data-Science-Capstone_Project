@@ -3,7 +3,9 @@ Introduction/Business Problem
 In this project we will try to find an optimal location for a restuarant.In particular for this project we will try to find an optimal location for an Italian Restaurant in
 Manhattan,NY. Since there are a lot of restaurants in and around the many neighborhoods of Manhattan,NY we will try to find locations where there aren't that many restaurants 
 and in particular only a few Italian restaurants in the vicinity. We will use our data science powers to generate a few promising locations based on this criteria. Advantages of 
-each one will then be clearly expressed so that best possible final location can be chosen by stakeholders.
+each one will then be clearly expressed so that best possible final location can be chosen by stakeholders. This problem will be particularly useful for anyone who intends to open a new
+place of business (be it a restaurant, shopping mall, gym, etc.) as the ideal location for all such enterprises is one where a lot of such businesses do not already exist in the 
+vicinity. 
 
 Data
 
