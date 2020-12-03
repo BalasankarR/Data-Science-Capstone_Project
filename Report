@@ -10,7 +10,7 @@ Data
 Based on definition of our problem, factors that will influence our decision are:
 * number of existing restaurants in the neighborhood (any type of restaurant).
 * number of and distance to Italian restaurants in the neighborhood, if any.
-* distance from neighborhood center as given by latitude,longitude details.
+* distance from neighborhood(By taking the Latitude and Longitude values of the neighbourhood as its center). 
 
 Following data sources will be needed to extract/generate the required information:
 * centers of candidate areas will be generated algorithmically and approximate addresses of centers of those areas will be obtained using Google Maps API reverse geocoding.
