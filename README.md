@@ -4,7 +4,7 @@
 Capstone Project - The Battle of the Neighborhoods
 Applied Data Science Capstone by IBM/Coursera
 
-# Introduction: Business Problem
+# Business Problem
 
 In this project we will try to find an optimal location for a restuarant. In particular for this project we will try to find an optimal location for an Italian Restaurant in Manhattan,NY.
 
